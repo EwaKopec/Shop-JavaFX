@@ -4,7 +4,7 @@ Application made in Java with
 - JavaFX
 - JFoeniX -  https://github.com/sshahine/JFoenix
 - CSS
-- MySQL
+- MySQL (local database) 
  
  Login panel
  
